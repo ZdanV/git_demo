@@ -1,0 +1,75 @@
+[33mcommit 6f2c7bfb5a6ca9a2aa86f866784bbe1510851dd3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 36f3c44 fb6e817
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Sat Jun 27 09:16:08 2020 +0300
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       arrows.txt
+
+[33mcommit 36f3c44575cb80ed8c7e0c32b57cf8960d0521db[m
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Sat Jun 27 09:05:11 2020 +0300
+
+    arrows in master
+
+[33mcommit fb6e817b10f6e1056a315a8497e3e1cbf6a02d74[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Sat Jun 27 09:03:03 2020 +0300
+
+    add arrow new lines
+
+[33mcommit 509e1cc97881b4e0350d43a7a67aced470a82092[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Sat Jun 27 09:00:07 2020 +0300
+
+    finish
+
+[33mcommit 007536c69e93dbb8ac0cbdaf7c7626468d67f9a4[m[33m ([m[1;32mshow[m[33m)[m
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Fri Jun 26 21:42:30 2020 +0300
+
+    new two lines in brench feature
+
+[33mcommit fc2f06afc82de09dfec44064d5f33554451ea79a[m
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Fri Jun 26 21:39:32 2020 +0300
+
+    new brench feature
+
+[33mcommit d40b13c4dd753560c291919a46c460f203bf6acf[m
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Fri Jun 26 21:17:35 2020 +0300
+
+    new file gitignore
+
+[33mcommit c84802f08e0f85b2af4617102ea43274dfdb258d[m
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Fri Jun 26 20:19:28 2020 +0300
+
+    new a line
+
+[33mcommit a943f9b987e58cf362460a4935dd0f64b835ce01[m
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Thu Jun 25 21:28:27 2020 +0300
+
+    add two more lines to the song
+
+[33mcommit 62deaebd0680bf2a3b1a9f306bbf7231f78b943f[m
+Author: ZdanV <67411758+ZdanV@users.noreply.github.com>
+Date:   Thu Jun 25 21:13:07 2020 +0300
+
+    add two more lines to the song
+
+[33mcommit b450e75b5d5ffbd07e108f74758995b8196d74b3[m
+Author: Vladimir Zdanovich <woodcraftart.brets@gmail.com>
+Date:   Thu Jun 25 21:02:59 2020 +0300
+
+    add first 2 lines in the song
+
+[33mcommit 9fb7e9b6ffc210663461a84a2dd3039f33add7c1[m
+Author: ZdanV <67411758+ZdanV@users.noreply.github.com>
+Date:   Thu Jun 25 20:45:40 2020 +0300
+
+    Initial commit
